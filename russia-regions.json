@@ -1008,7 +1008,7 @@
     },
     "capital": {
       "name": "Благовещенск",
-      "label": "blagoveshchensk",
+      "label": "blagoveshchensk_amurskaya",
       "id": "2800000100000",
       "okato": "10401000000",
       "oktmo": "10701000001",
@@ -1477,7 +1477,7 @@
     },
     "capital": {
       "name": "Петропавловск-Камчатский",
-      "label": "petropavlovsk_kamchatsky",
+      "label": "petropavlovsk_kamchatskiy",
       "id": "4100000100000",
       "okato": "30401000000",
       "oktmo": "30701000001",
@@ -1549,7 +1549,7 @@
     },
     "capital": {
       "name": "Киров",
-      "label": "kirov",
+      "label": "kirov_kirovskaya",
       "id": "4300000100000",
       "okato": "33401000000",
       "oktmo": "33701000001",
@@ -1801,7 +1801,7 @@
     },
     "capital": {
       "name": "Москва",
-      "label": "moscow",
+      "label": "moskva",
       "id": "7700000000000",
       "okato": "45000000000",
       "oktmo": "45000000",
@@ -1873,7 +1873,7 @@
     },
     "capital": {
       "name": "Нижний Новгород",
-      "label": "nizhny_novgorod",
+      "label": "nizhniy_novgorod",
       "id": "5200000100000",
       "okato": "22401000000",
       "oktmo": "22701000001",
@@ -1909,7 +1909,7 @@
     },
     "capital": {
       "name": "Великий Новгород",
-      "label": "veliky_novgorod",
+      "label": "velikiy_novgorod",
       "id": "5300000100000",
       "okato": "49401000000",
       "oktmo": "49701000001",
@@ -2053,7 +2053,7 @@
     },
     "capital": {
       "name": "Орёл",
-      "label": "orel",
+      "label": "oryol",
       "id": "5700000100000",
       "okato": "54401000000",
       "oktmo": "54701000001",
@@ -2197,7 +2197,7 @@
     },
     "capital": {
       "name": "Ростов-на-Дону",
-      "label": "rostov_on_don",
+      "label": "rostov_na_donu",
       "id": "6100000100000",
       "okato": "60401000000",
       "oktmo": "60701000001",
@@ -2377,7 +2377,7 @@
     },
     "capital": {
       "name": "Екатеринбург",
-      "label": "yekaterinburg",
+      "label": "ekaterinburg",
       "id": "6600000100000",
       "okato": "65401000000",
       "oktmo": "65701000001",
@@ -2746,7 +2746,7 @@
   },
   {
     "name": "Москва",
-    "label": "moscow",
+    "label": "moskva",
     "type": "Город",
     "typeShort": "г",
     "contentType": "city",
@@ -3083,7 +3083,7 @@
     },
     "capital": {
       "name": "Запорожье",
-      "label": "zaporozhьe_zaporozhskaya",
+      "label": "zaporozhe",
       "id": "9000100100000",
       "okato": "23000000000",
       "oktmo": "23000000000",
