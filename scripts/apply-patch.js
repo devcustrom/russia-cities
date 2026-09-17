@@ -78,14 +78,20 @@ console.log(`Added ${addedCities} new cities, refreshed ${updatedCities} existin
 
 const regionNames = new Set(regions.map((r) => r.name))
 let addedRegions = 0
+let updatedRegions = 0
 for (const newRegion of newRegions) {
-  if (!regionNames.has(newRegion.name)) {
+  const existsIdx = regions.findIndex((r) => r.name === newRegion.name)
+  if (existsIdx === -1) {
     regions.push(newRegion)
     regionNames.add(newRegion.name)
     addedRegions++
+  } else {
+    // Refresh stored record (name_en, namecase, capital, etc.)
+    regions[existsIdx] = newRegion
+    updatedRegions++
   }
 }
-console.log(`Added ${addedRegions} new regions`)
+console.log(`Added ${addedRegions} new regions, refreshed ${updatedRegions} existing records`)
 
 fs.writeFileSync(citiesPath, JSON.stringify(cities, null, 2), 'utf8')
 fs.writeFileSync(regionsPath, JSON.stringify(regions, null, 2), 'utf8')

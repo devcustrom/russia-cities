@@ -1,7 +1,7 @@
 const fs = require('fs')
 const path = require('path')
 const { inflectName } = require('./lib/namecase')
-const { transliterate } = require('./lib/translit')
+const { transliterate, romanizeName } = require('./lib/translit')
 
 const ROOT = path.resolve(__dirname, '..')
 const CONFIG_PATH = process.argv[2] || path.join(__dirname, 'enrichment-config.json')
@@ -13,6 +13,11 @@ const existingRegions = require(path.join(ROOT, 'russia-regions.json'))
 
 const fetchResults = JSON.parse(fs.readFileSync(path.join(ROOT, 'dadata-fetch-results.json'), 'utf8'))
 const renamedResults = JSON.parse(fs.readFileSync(path.join(ROOT, 'dadata-renamed-results.json'), 'utf8'))
+
+// Кураторские почтовые индексы новых регионов (ДНР/ЛНР/Запорожская).
+// Источники: официальный справочник Почты России (dom.gogov.ru) + правило «2» + старый
+// 5-значный индекс (ukrindex.ru). Имеют приоритет над postal_code из DaData.
+const ZIP_OVERRIDES = JSON.parse(fs.readFileSync(path.join(__dirname, 'new-regions-zip.json'), 'utf8'))
 
 const foundMap = {}
 for (const r of fetchResults.found) {
@@ -53,7 +58,7 @@ for (const rc of config.regions) {
     yearFounded: null,
     area: null,
     fullname: rc.fullname,
-    name_en: null,
+    name_en: rc.name_en,
     district: rc.district,
   }
   for (const [ukrName, rusName] of Object.entries(rc.renamed || {})) {
@@ -139,11 +144,11 @@ for (const [regionKey, names] of Object.entries(CITY_LISTS)) {
       guid: record.city_fias_id || record.fias_id,
       isDualName: dual,
       isCapital: finalName === 'Донецк' || finalName === 'Луганск' || finalName === 'Запорожье',
-      zip: record.postal_code ? Number(record.postal_code) : null,
+      zip: ZIP_OVERRIDES[regionDisplay + '|' + finalName] ?? (record.postal_code ? Number(record.postal_code) : null),
       population: null,
       yearFounded: null,
       yearCityStatus: null,
-      name_en: null,
+      name_en: romanizeName(finalName),
       namecase: inflectName(finalName),
       coords: {
         lat: record.geo_lat ? Number(record.geo_lat) : null,

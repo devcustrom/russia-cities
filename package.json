@@ -1,8 +1,9 @@
 {
   "name": "russia-cities-data",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Data of Russian cities and regions with declensions",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "enrich:fetch": "node scripts/enrich-fetch.js",
     "enrich:build": "node scripts/enrich-build.js",
@@ -28,6 +29,7 @@
   "homepage": "https://github.com/arbaev/russia-cities#readme",
   "files": [
     "index.js",
+    "index.d.ts",
     "README.md",
     "russia-cities.json",
     "russia-regions.json"

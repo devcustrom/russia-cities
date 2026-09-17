@@ -81635,11 +81635,11 @@
     "guid": "6c7ff2bd-e256-4075-a0ae-e5cbf4072c32",
     "isDualName": false,
     "isCapital": false,
-    "zip": 286000,
+    "zip": 286060,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Avdeyevka",
     "namecase": {
       "nominative": "Авдеевка",
       "genitive": "Авдеевки",
@@ -81675,7 +81675,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -81692,11 +81692,11 @@
     "guid": "5ec2a3b4-a5cd-4cbb-90e8-0a88b38d5951",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 287302,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Amvrosiyevka",
     "namecase": {
       "nominative": "Амвросиевка",
       "genitive": "Амвросиевки",
@@ -81732,7 +81732,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -81753,7 +81753,7 @@
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Artyomovsk",
     "namecase": {
       "nominative": "Артёмовск",
       "genitive": "Артёмовска",
@@ -81789,7 +81789,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -81806,11 +81806,11 @@
     "guid": "6da185a3-9ed1-44c9-bec1-bc4612666771",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 285043,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Belitskoye",
     "namecase": {
       "nominative": "Белицкое",
       "genitive": "Белицкого",
@@ -81846,7 +81846,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -81863,11 +81863,11 @@
     "guid": "ba2c66e3-6e7e-4f9a-90f2-483c80ac0fdd",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 285012,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Belozerskoye",
     "namecase": {
       "nominative": "Белозерское",
       "genitive": "Белозерского",
@@ -81903,7 +81903,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -81920,11 +81920,11 @@
     "guid": "5c248230-7785-4928-9773-5913319164d4",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 285700,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Volnovakha",
     "namecase": {
       "nominative": "Волноваха",
       "genitive": "Волновахи",
@@ -81960,7 +81960,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -81977,11 +81977,11 @@
     "guid": "20d465f2-d572-4810-bca2-12d5196b5cd3",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 284600,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Gorlovka",
     "namecase": {
       "nominative": "Горловка",
       "genitive": "Горловки",
@@ -82017,7 +82017,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -82034,11 +82034,11 @@
     "guid": "71115abf-ddb4-4423-919c-f1f861aa93d6",
     "isDualName": true,
     "isCapital": false,
-    "zip": 283001,
+    "zip": 285487,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Gornyak",
     "namecase": {
       "nominative": "Горняк",
       "genitive": "Горняка",
@@ -82074,7 +82074,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -82091,11 +82091,11 @@
     "guid": "41634df4-8b81-4107-a2ae-223f7bbf71ae",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 284700,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Debaltsevo",
     "namecase": {
       "nominative": "Дебальцево",
       "genitive": "Дебальцева",
@@ -82131,7 +82131,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -82148,11 +82148,11 @@
     "guid": "f88e60dd-2ab2-491f-8378-9573fb40d761",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 285000,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Dobropolye",
     "namecase": {
       "nominative": "Доброполье",
       "genitive": "Доброполья",
@@ -82188,7 +82188,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -82205,11 +82205,11 @@
     "guid": "e7955c52-ca17-4d62-9ef7-63b52a07c328",
     "isDualName": false,
     "isCapital": false,
-    "zip": 285743,
+    "zip": 285740,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Dokuchayevsk",
     "namecase": {
       "nominative": "Докучаевск",
       "genitive": "Докучаевска",
@@ -82245,7 +82245,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -82266,7 +82266,7 @@
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Donetsk",
     "namecase": {
       "nominative": "Донецк",
       "genitive": "Донецка",
@@ -82302,7 +82302,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -82319,11 +82319,11 @@
     "guid": "8a860222-8b77-44c2-9892-d175244dd2fc",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 284200,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Druzhkovka",
     "namecase": {
       "nominative": "Дружковка",
       "genitive": "Дружковки",
@@ -82359,7 +82359,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -82376,11 +82376,11 @@
     "guid": "46b81aeb-f47d-4c1b-8fff-7f9e64a37a67",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 286400,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Yenakiyevo",
     "namecase": {
       "nominative": "Енакиево",
       "genitive": "Енакиева",
@@ -82416,7 +82416,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -82437,7 +82437,7 @@
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Zhdanovka",
     "namecase": {
       "nominative": "Ждановка",
       "genitive": "Ждановки",
@@ -82473,7 +82473,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -82490,11 +82490,11 @@
     "guid": "7c886ec1-75ae-4390-84df-04c61acfea5d",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 285290,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Artyomovo",
     "namecase": {
       "nominative": "Артёмово",
       "genitive": "Артёмова",
@@ -82530,7 +82530,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -82547,11 +82547,11 @@
     "guid": "29e8dc5e-e902-4bb8-8c8a-6808d6c31cf9",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 286783,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Zugres",
     "namecase": {
       "nominative": "Зугрэс",
       "genitive": "Зугрэса",
@@ -82587,7 +82587,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -82604,11 +82604,11 @@
     "guid": "e842c10d-f708-44c9-ba7c-0e646df944f6",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 286793,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Ilovaysk",
     "namecase": {
       "nominative": "Иловайск",
       "genitive": "Иловайска",
@@ -82644,7 +82644,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -82661,11 +82661,11 @@
     "guid": "87319ed9-8175-4308-b811-0c63cd5e7aa1",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 286300,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Kirovskoye",
     "namecase": {
       "nominative": "Кировское",
       "genitive": "Кировского",
@@ -82701,7 +82701,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -82718,11 +82718,11 @@
     "guid": "f6930f7c-419b-4d88-951a-085391a7694c",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 287250,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Komsomolskoye",
     "namecase": {
       "nominative": "Комсомольское",
       "genitive": "Комсомольского",
@@ -82758,7 +82758,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -82775,11 +82775,11 @@
     "guid": "72596bd9-dee2-4afd-86fe-c9e592852426",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 285100,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Konstantinovka",
     "namecase": {
       "nominative": "Константиновка",
       "genitive": "Константиновки",
@@ -82815,7 +82815,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -82832,11 +82832,11 @@
     "guid": "c6df3fb5-b7c6-4be0-aff9-bb2500c4ed22",
     "isDualName": false,
     "isCapital": false,
-    "zip": 300004,
+    "zip": 284300,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Kramatorsk",
     "namecase": {
       "nominative": "Краматорск",
       "genitive": "Краматорска",
@@ -82872,7 +82872,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -82889,11 +82889,11 @@
     "guid": "2eddd143-e4b4-4d35-be67-a0971e4481b1",
     "isDualName": false,
     "isCapital": false,
-    "zip": 283001,
+    "zip": 285630,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Krasnogorovka",
     "namecase": {
       "nominative": "Красногоровка",
       "genitive": "Красногоровки",
@@ -82929,7 +82929,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -82946,11 +82946,11 @@
     "guid": "86e2d022-6824-433b-87a9-0b761b7e6cd2",
     "isDualName": false,
     "isCapital": false,
-    "zip": 283001,
+    "zip": 285612,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Kurakhovo",
     "namecase": {
       "nominative": "Курахово",
       "genitive": "Курахова",
@@ -82986,7 +82986,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -83003,11 +83003,11 @@
     "guid": "52e39438-42d9-4808-85b4-9a430e4be06b",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 284400,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Krasny Liman",
     "namecase": {
       "nominative": "Красный Лиман",
       "genitive": "Красного Лимана",
@@ -83043,7 +83043,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -83060,11 +83060,11 @@
     "guid": "8fc59513-e3e7-4407-bb1c-71284e404e36",
     "isDualName": false,
     "isCapital": false,
-    "zip": 286132,
+    "zip": 286100,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Makeyevka",
     "namecase": {
       "nominative": "Макеевка",
       "genitive": "Макеевки",
@@ -83100,7 +83100,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -83117,11 +83117,11 @@
     "guid": "6c66b00d-e338-4990-a84e-99e650ff7838",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 287500,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Mariupol",
     "namecase": {
       "nominative": "Мариуполь",
       "genitive": "Мариуполя",
@@ -83157,7 +83157,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -83174,11 +83174,11 @@
     "guid": "cb3b19ca-beda-45d8-a2e7-93a0900fe1b0",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 285600,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Maryinka",
     "namecase": {
       "nominative": "Марьинка",
       "genitive": "Марьинки",
@@ -83214,7 +83214,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -83235,7 +83235,7 @@
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Mospino",
     "namecase": {
       "nominative": "Моспино",
       "genitive": "Моспина",
@@ -83271,7 +83271,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -83288,11 +83288,11 @@
     "guid": "b6856f9b-6557-40a6-bb19-f1fca58e04cd",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 285134,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Nikolayevka",
     "namecase": {
       "nominative": "Николаевка",
       "genitive": "Николаевки",
@@ -83328,7 +83328,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -83349,7 +83349,7 @@
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Novoazovsk",
     "namecase": {
       "nominative": "Новоазовск",
       "genitive": "Новоазовска",
@@ -83385,7 +83385,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -83402,11 +83402,11 @@
     "guid": "480f1081-bb75-4bdd-9885-80d1da1ecca0",
     "isDualName": false,
     "isCapital": false,
-    "zip": 283001,
+    "zip": 285483,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Novogrodovka",
     "namecase": {
       "nominative": "Новогродовка",
       "genitive": "Новогродовки",
@@ -83442,7 +83442,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -83459,11 +83459,11 @@
     "guid": "e4ced0af-e22b-468b-80bc-f41c6d741d0e",
     "isDualName": true,
     "isCapital": false,
-    "zip": 283001,
+    "zip": 285300,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Krasnoarmeysk",
     "namecase": {
       "nominative": "Красноармейск",
       "genitive": "Красноармейска",
@@ -83499,7 +83499,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -83516,11 +83516,11 @@
     "guid": "f3846430-2b84-4d94-bc48-d30de948639c",
     "isDualName": false,
     "isCapital": false,
-    "zip": 283001,
+    "zip": 285310,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Rodinskoye",
     "namecase": {
       "nominative": "Родинское",
       "genitive": "Родинского",
@@ -83556,7 +83556,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -83577,7 +83577,7 @@
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Svetlodarsk",
     "namecase": {
       "nominative": "Светлодарск",
       "genitive": "Светлодарска",
@@ -83613,7 +83613,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -83630,11 +83630,11 @@
     "guid": "0d7be999-3cc2-475f-8989-ea04eb567fd6",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 284130,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Svyatogorsk",
     "namecase": {
       "nominative": "Святогорск",
       "genitive": "Святогорска",
@@ -83670,7 +83670,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -83687,11 +83687,11 @@
     "guid": "58951e54-1f73-44ef-b8be-c099a8576160",
     "isDualName": true,
     "isCapital": false,
-    "zip": null,
+    "zip": 284522,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Seversk",
     "namecase": {
       "nominative": "Северск",
       "genitive": "Северска",
@@ -83727,7 +83727,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -83744,11 +83744,11 @@
     "guid": "4dc98960-3d3a-449c-8ab2-14a686521b25",
     "isDualName": false,
     "isCapital": false,
-    "zip": 283001,
+    "zip": 285400,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Selidovo",
     "namecase": {
       "nominative": "Селидово",
       "genitive": "Селидова",
@@ -83784,7 +83784,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -83801,11 +83801,11 @@
     "guid": "770ecc6a-5577-4757-8f60-6079ba5afe25",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 284100,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Slavyansk",
     "namecase": {
       "nominative": "Славянск",
       "genitive": "Славянска",
@@ -83841,7 +83841,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -83858,11 +83858,11 @@
     "guid": "e988dd5c-344d-4d28-b340-12988bdca930",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 286500,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Snezhnoye",
     "namecase": {
       "nominative": "Снежное",
       "genitive": "Снежного",
@@ -83898,7 +83898,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -83915,11 +83915,11 @@
     "guid": "3c0e32e9-85c5-4fda-85f2-87ad4180a9d9",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 284543,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Soledar",
     "namecase": {
       "nominative": "Соледар",
       "genitive": "Соледара",
@@ -83955,7 +83955,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -83972,11 +83972,11 @@
     "guid": "98b584a8-1ff6-4a99-8f5a-7c404812ad69",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 286600,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Torez",
     "namecase": {
       "nominative": "Торез",
       "genitive": "Тореза",
@@ -84012,7 +84012,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -84033,7 +84033,7 @@
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Uglegorsk",
     "namecase": {
       "nominative": "Углегорск",
       "genitive": "Углегорска",
@@ -84069,7 +84069,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -84086,11 +84086,11 @@
     "guid": "90fbea9a-b043-4cef-86d7-1ff388aeee5a",
     "isDualName": false,
     "isCapital": false,
-    "zip": 285903,
+    "zip": 285670,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Ugledar",
     "namecase": {
       "nominative": "Угледар",
       "genitive": "Угледара",
@@ -84126,7 +84126,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -84143,11 +84143,11 @@
     "guid": "39a428be-3d97-4ae2-8b22-289d34204f0c",
     "isDualName": false,
     "isCapital": false,
-    "zip": 283001,
+    "zip": 285485,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Ukrainsk",
     "namecase": {
       "nominative": "Украинск",
       "genitive": "Украинска",
@@ -84183,7 +84183,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -84200,11 +84200,11 @@
     "guid": "9ea6b16a-f813-482e-ad87-c122e2f71393",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 286700,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Khartsyzsk",
     "namecase": {
       "nominative": "Харцызск",
       "genitive": "Харцызска",
@@ -84240,7 +84240,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -84257,11 +84257,11 @@
     "guid": "ea94ed86-a795-40e4-8205-9012712975f8",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 284551,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Chasov Yar",
     "namecase": {
       "nominative": "Часов Яр",
       "genitive": "Часового Яра",
@@ -84297,7 +84297,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -84314,11 +84314,11 @@
     "guid": "c81d36e9-4ead-4ee8-8b2f-6c8d4aa35cf4",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 286211,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Shakhtersk",
     "namecase": {
       "nominative": "Шахтерск",
       "genitive": "Шахтерска",
@@ -84354,7 +84354,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -84371,11 +84371,11 @@
     "guid": "17db9d46-e344-40d4-ac86-b4eb25d50460",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 286496,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Yunokommunarovsk",
     "namecase": {
       "nominative": "Юнокоммунаровск",
       "genitive": "Юнокоммунаровска",
@@ -84411,7 +84411,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -84428,11 +84428,11 @@
     "guid": "b7388039-cd17-46fd-8f73-de29c8afd244",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 286000,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Yasinovataya",
     "namecase": {
       "nominative": "Ясиноватая",
       "genitive": "Ясиноватой",
@@ -84468,7 +84468,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -84485,11 +84485,11 @@
     "guid": "e7dba934-c9e1-480b-a2e3-bfee8a9d5243",
     "isDualName": true,
     "isCapital": false,
-    "zip": null,
+    "zip": 291484,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Alexandrovsk",
     "namecase": {
       "nominative": "Александровск",
       "genitive": "Александровска",
@@ -84525,7 +84525,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Луганская Народная Республика",
-      "name_en": null,
+      "name_en": "Lugansk People's Republic",
       "district": "Южный"
     }
   },
@@ -84542,11 +84542,11 @@
     "guid": "459aed99-39c3-460e-b51f-0b5e19b56fce",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 294095,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Almaznaya",
     "namecase": {
       "nominative": "Алмазная",
       "genitive": "Алмазной",
@@ -84582,7 +84582,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Луганская Народная Республика",
-      "name_en": null,
+      "name_en": "Lugansk People's Republic",
       "district": "Южный"
     }
   },
@@ -84599,11 +84599,11 @@
     "guid": "94356532-4ef2-4fa5-9dc7-7499b0c722d0",
     "isDualName": false,
     "isCapital": false,
-    "zip": 294220,
+    "zip": 294200,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Alchevsk",
     "namecase": {
       "nominative": "Алчевск",
       "genitive": "Алчевска",
@@ -84639,7 +84639,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Луганская Народная Республика",
-      "name_en": null,
+      "name_en": "Lugansk People's Republic",
       "district": "Южный"
     }
   },
@@ -84656,11 +84656,11 @@
     "guid": "56e8d03b-6324-46bb-ad5b-3fe27c00f67a",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 294613,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Antratsit",
     "namecase": {
       "nominative": "Антрацит",
       "genitive": "Антрацита",
@@ -84696,7 +84696,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Луганская Народная Республика",
-      "name_en": null,
+      "name_en": "Lugansk People's Republic",
       "district": "Южный"
     }
   },
@@ -84717,7 +84717,7 @@
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Artyomovsk",
     "namecase": {
       "nominative": "Артёмовск",
       "genitive": "Артёмовска",
@@ -84753,7 +84753,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Луганская Народная Республика",
-      "name_en": null,
+      "name_en": "Lugansk People's Republic",
       "district": "Южный"
     }
   },
@@ -84770,11 +84770,11 @@
     "guid": "8fe834b2-5014-4209-9869-bfc8e07b9ba3",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 294100,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Bryanka",
     "namecase": {
       "nominative": "Брянка",
       "genitive": "Брянки",
@@ -84810,7 +84810,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Луганская Народная Республика",
-      "name_en": null,
+      "name_en": "Lugansk People's Republic",
       "district": "Южный"
     }
   },
@@ -84827,11 +84827,11 @@
     "guid": "861605de-7008-4f0a-b426-efd6cee58040",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 294560,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Vakhrushevo",
     "namecase": {
       "nominative": "Вахрушево",
       "genitive": "Вахрушева",
@@ -84867,7 +84867,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Луганская Народная Республика",
-      "name_en": null,
+      "name_en": "Lugansk People's Republic",
       "district": "Южный"
     }
   },
@@ -84884,11 +84884,11 @@
     "guid": "4659c763-4af7-4aa5-bfb4-587afd9b9a24",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 293292,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Gorskoye",
     "namecase": {
       "nominative": "Горское",
       "genitive": "Горского",
@@ -84924,7 +84924,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Луганская Народная Республика",
-      "name_en": null,
+      "name_en": "Lugansk People's Republic",
       "district": "Южный"
     }
   },
@@ -84941,11 +84941,11 @@
     "guid": "b749508c-d820-4a23-b24b-133eec14a1b5",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 293740,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Zimogorye",
     "namecase": {
       "nominative": "Зимогорье",
       "genitive": "Зимогорья",
@@ -84981,7 +84981,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Луганская Народная Республика",
-      "name_en": null,
+      "name_en": "Lugansk People's Republic",
       "district": "Южный"
     }
   },
@@ -84998,11 +84998,11 @@
     "guid": "ee8e6750-b594-48c9-8727-3443904b230e",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 293294,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Zolotoye",
     "namecase": {
       "nominative": "Золотое",
       "genitive": "Золотого",
@@ -85038,7 +85038,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Луганская Народная Республика",
-      "name_en": null,
+      "name_en": "Lugansk People's Republic",
       "district": "Южный"
     }
   },
@@ -85055,11 +85055,11 @@
     "guid": "c6319396-6812-483d-9e7a-d8bca121c1c4",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 294323,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Zorinsk",
     "namecase": {
       "nominative": "Зоринск",
       "genitive": "Зоринска",
@@ -85095,7 +85095,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Луганская Народная Республика",
-      "name_en": null,
+      "name_en": "Lugansk People's Republic",
       "district": "Южный"
     }
   },
@@ -85112,11 +85112,11 @@
     "guid": "8bf1adcc-b612-47b9-856f-e55d087a08c6",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 294020,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Irmino",
     "namecase": {
       "nominative": "Ирмино",
       "genitive": "Ирмина",
@@ -85152,7 +85152,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Луганская Народная Республика",
-      "name_en": null,
+      "name_en": "Lugansk People's Republic",
       "district": "Южный"
     }
   },
@@ -85169,11 +85169,11 @@
     "guid": "b27b2b67-b6b1-4693-85d0-2f4b42b50bb5",
     "isDualName": true,
     "isCapital": false,
-    "zip": null,
+    "zip": 293801,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Kirovsk",
     "namecase": {
       "nominative": "Кировск",
       "genitive": "Кировска",
@@ -85209,7 +85209,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Луганская Народная Республика",
-      "name_en": null,
+      "name_en": "Lugansk People's Republic",
       "district": "Южный"
     }
   },
@@ -85226,11 +85226,11 @@
     "guid": "3432773c-4181-4e6c-8a7b-bbaa075597ba",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 294407,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Krasnodon",
     "namecase": {
       "nominative": "Краснодон",
       "genitive": "Краснодона",
@@ -85266,7 +85266,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Луганская Народная Республика",
-      "name_en": null,
+      "name_en": "Lugansk People's Republic",
       "district": "Южный"
     }
   },
@@ -85283,11 +85283,11 @@
     "guid": "767ba267-287c-4bf2-92bb-649b423c73c7",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 294513,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Krasny Luch",
     "namecase": {
       "nominative": "Красный Луч",
       "genitive": "Красного Луча",
@@ -85323,7 +85323,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Луганская Народная Республика",
-      "name_en": null,
+      "name_en": "Lugansk People's Republic",
       "district": "Южный"
     }
   },
@@ -85340,11 +85340,11 @@
     "guid": "330a2f33-6438-4a59-9767-d935a8bfb2bb",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 292900,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Kremennaya",
     "namecase": {
       "nominative": "Кременная",
       "genitive": "Кременной",
@@ -85380,7 +85380,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Луганская Народная Республика",
-      "name_en": null,
+      "name_en": "Lugansk People's Republic",
       "district": "Южный"
     }
   },
@@ -85397,11 +85397,11 @@
     "guid": "bd751fc0-9442-4078-aea6-256ee4d5921f",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 293100,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Lisichansk",
     "namecase": {
       "nominative": "Лисичанск",
       "genitive": "Лисичанска",
@@ -85437,7 +85437,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Луганская Народная Республика",
-      "name_en": null,
+      "name_en": "Lugansk People's Republic",
       "district": "Южный"
     }
   },
@@ -85458,7 +85458,7 @@
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Lugansk",
     "namecase": {
       "nominative": "Луганск",
       "genitive": "Луганска",
@@ -85494,7 +85494,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Луганская Народная Республика",
-      "name_en": null,
+      "name_en": "Lugansk People's Republic",
       "district": "Южный"
     }
   },
@@ -85515,7 +85515,7 @@
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Lutugino",
     "namecase": {
       "nominative": "Лутугино",
       "genitive": "Лутугина",
@@ -85551,7 +85551,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Луганская Народная Республика",
-      "name_en": null,
+      "name_en": "Lugansk People's Republic",
       "district": "Южный"
     }
   },
@@ -85568,11 +85568,11 @@
     "guid": "2d020751-aad4-4251-bd36-aa02a6b38290",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 294533,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Miusinsk",
     "namecase": {
       "nominative": "Миусинск",
       "genitive": "Миусинска",
@@ -85608,7 +85608,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Луганская Народная Республика",
-      "name_en": null,
+      "name_en": "Lugansk People's Republic",
       "district": "Южный"
     }
   },
@@ -85625,11 +85625,11 @@
     "guid": "fc18ddfb-93f5-4319-9051-1544be359cb6",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 294415,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Molodogvardeysk",
     "namecase": {
       "nominative": "Молодогвардейск",
       "genitive": "Молодогвардейска",
@@ -85665,7 +85665,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Луганская Народная Республика",
-      "name_en": null,
+      "name_en": "Lugansk People's Republic",
       "district": "Южный"
     }
   },
@@ -85686,7 +85686,7 @@
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Novodruzhesk",
     "namecase": {
       "nominative": "Новодружеск",
       "genitive": "Новодружеска",
@@ -85722,7 +85722,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Луганская Народная Республика",
-      "name_en": null,
+      "name_en": "Lugansk People's Republic",
       "district": "Южный"
     }
   },
@@ -85739,11 +85739,11 @@
     "guid": "f7f80821-b5d4-4b33-a37d-2ee43b18ec90",
     "isDualName": true,
     "isCapital": false,
-    "zip": null,
+    "zip": 293200,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Pervomaysk",
     "namecase": {
       "nominative": "Первомайск",
       "genitive": "Первомайска",
@@ -85779,7 +85779,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Луганская Народная Республика",
-      "name_en": null,
+      "name_en": "Lugansk People's Republic",
       "district": "Южный"
     }
   },
@@ -85796,11 +85796,11 @@
     "guid": "20d28e3a-032e-4efa-909a-6cf998f22c2d",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 294300,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Perevalsk",
     "namecase": {
       "nominative": "Перевальск",
       "genitive": "Перевальска",
@@ -85836,7 +85836,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Луганская Народная Республика",
-      "name_en": null,
+      "name_en": "Lugansk People's Republic",
       "district": "Южный"
     }
   },
@@ -85853,11 +85853,11 @@
     "guid": "62b2814e-4974-490b-bda4-f72f30dc80bf",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 292734,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Petrovskoye",
     "namecase": {
       "nominative": "Петровское",
       "genitive": "Петровского",
@@ -85893,7 +85893,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Луганская Народная Республика",
-      "name_en": null,
+      "name_en": "Lugansk People's Republic",
       "district": "Южный"
     }
   },
@@ -85910,11 +85910,11 @@
     "guid": "477fb932-d05e-4f2e-86f5-0978e27417ee",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 293300,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Popasnaya",
     "namecase": {
       "nominative": "Попасная",
       "genitive": "Попасной",
@@ -85950,7 +85950,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Луганская Народная Республика",
-      "name_en": null,
+      "name_en": "Lugansk People's Republic",
       "district": "Южный"
     }
   },
@@ -85971,7 +85971,7 @@
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Privolye",
     "namecase": {
       "nominative": "Приволье",
       "genitive": "Приволья",
@@ -86007,7 +86007,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Луганская Народная Республика",
-      "name_en": null,
+      "name_en": "Lugansk People's Republic",
       "district": "Южный"
     }
   },
@@ -86024,11 +86024,11 @@
     "guid": "6c69e1d2-5fc8-4725-afdc-ece0350f747a",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 294701,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Rovenki",
     "namecase": {
       "nominative": "Ровеньки",
       "genitive": "Ровеньков",
@@ -86064,7 +86064,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Луганская Народная Республика",
-      "name_en": null,
+      "name_en": "Lugansk People's Republic",
       "district": "Южный"
     }
   },
@@ -86081,11 +86081,11 @@
     "guid": "96a1ed7f-b7da-4c7a-bd09-4e510b05380c",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 293010,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Rubezhnoye",
     "namecase": {
       "nominative": "Рубежное",
       "genitive": "Рубежного",
@@ -86121,7 +86121,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Луганская Народная Республика",
-      "name_en": null,
+      "name_en": "Lugansk People's Republic",
       "district": "Южный"
     }
   },
@@ -86142,7 +86142,7 @@
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Svatovo",
     "namecase": {
       "nominative": "Сватово",
       "genitive": "Сватова",
@@ -86178,7 +86178,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Луганская Народная Республика",
-      "name_en": null,
+      "name_en": "Lugansk People's Republic",
       "district": "Южный"
     }
   },
@@ -86195,11 +86195,11 @@
     "guid": "a3c10932-b0a2-447f-8fa9-4b1c7dc64836",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 294801,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Sverdlovsk",
     "namecase": {
       "nominative": "Свердловск",
       "genitive": "Свердловска",
@@ -86235,7 +86235,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Луганская Народная Республика",
-      "name_en": null,
+      "name_en": "Lugansk People's Republic",
       "district": "Южный"
     }
   },
@@ -86252,11 +86252,11 @@
     "guid": "39e334b8-efc5-4867-a996-18e8ec98a2dd",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 293400,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Severodonetsk",
     "namecase": {
       "nominative": "Северодонецк",
       "genitive": "Северодонецка",
@@ -86292,7 +86292,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Луганская Народная Республика",
-      "name_en": null,
+      "name_en": "Lugansk People's Republic",
       "district": "Южный"
     }
   },
@@ -86309,11 +86309,11 @@
     "guid": "406b5fe3-6909-47b7-9e7f-cf06b6566d7b",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 292700,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Starobelsk",
     "namecase": {
       "nominative": "Старобельск",
       "genitive": "Старобельска",
@@ -86349,7 +86349,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Луганская Народная Республика",
-      "name_en": null,
+      "name_en": "Lugansk People's Republic",
       "district": "Южный"
     }
   },
@@ -86370,7 +86370,7 @@
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Stakhanov",
     "namecase": {
       "nominative": "Стаханов",
       "genitive": "Стаханова",
@@ -86406,7 +86406,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Луганская Народная Республика",
-      "name_en": null,
+      "name_en": "Lugansk People's Republic",
       "district": "Южный"
     }
   },
@@ -86423,11 +86423,11 @@
     "guid": "c1b23750-4f84-466f-8fa1-e4807dd4d8f0",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 294420,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Sukhodolsk",
     "namecase": {
       "nominative": "Суходольск",
       "genitive": "Суходольска",
@@ -86463,7 +86463,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Луганская Народная Республика",
-      "name_en": null,
+      "name_en": "Lugansk People's Republic",
       "district": "Южный"
     }
   },
@@ -86484,7 +86484,7 @@
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Schastye",
     "namecase": {
       "nominative": "Счастье",
       "genitive": "Счастья",
@@ -86520,7 +86520,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Луганская Народная Республика",
-      "name_en": null,
+      "name_en": "Lugansk People's Republic",
       "district": "Южный"
     }
   },
@@ -86537,11 +86537,11 @@
     "guid": "414535c6-f858-4b74-9bf5-c5185ff389aa",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 294830,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Chervonopartizansk",
     "namecase": {
       "nominative": "Червонопартизанск",
       "genitive": "Червонопартизанска",
@@ -86577,7 +86577,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Луганская Народная Республика",
-      "name_en": null,
+      "name_en": "Lugansk People's Republic",
       "district": "Южный"
     }
   },
@@ -86594,11 +86594,11 @@
     "guid": "d3603f5f-8ca4-4b3f-88a6-da489197f12d",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 271100,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Berdyansk",
     "namecase": {
       "nominative": "Бердянск",
       "genitive": "Бердянска",
@@ -86634,7 +86634,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Запорожская область",
-      "name_en": null,
+      "name_en": "Zaporozhye Oblast",
       "district": "Южный"
     }
   },
@@ -86651,11 +86651,11 @@
     "guid": "89df7581-4bf9-43de-923d-4442ae96646a",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 271601,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Vasilyevka",
     "namecase": {
       "nominative": "Васильевка",
       "genitive": "Васильевки",
@@ -86691,7 +86691,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Запорожская область",
-      "name_en": null,
+      "name_en": "Zaporozhye Oblast",
       "district": "Южный"
     }
   },
@@ -86712,7 +86712,7 @@
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Volnyansk",
     "namecase": {
       "nominative": "Вольнянск",
       "genitive": "Вольнянска",
@@ -86748,7 +86748,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Запорожская область",
-      "name_en": null,
+      "name_en": "Zaporozhye Oblast",
       "district": "Южный"
     }
   },
@@ -86765,11 +86765,11 @@
     "guid": "ada75e6e-c9ef-4a9e-8ab5-24a53c706acf",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 270200,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Gulyaypole",
     "namecase": {
       "nominative": "Гуляйполе",
       "genitive": "Гуляйполя",
@@ -86805,7 +86805,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Запорожская область",
-      "name_en": null,
+      "name_en": "Zaporozhye Oblast",
       "district": "Южный"
     }
   },
@@ -86822,11 +86822,11 @@
     "guid": "b3d6c09e-7e55-48ae-9fda-870add8afcb8",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 271630,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Dneprorudnoye",
     "namecase": {
       "nominative": "Днепрорудное",
       "genitive": "Днепрорудного",
@@ -86862,7 +86862,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Запорожская область",
-      "name_en": null,
+      "name_en": "Zaporozhye Oblast",
       "district": "Южный"
     }
   },
@@ -86883,7 +86883,7 @@
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Zaporozhye",
     "namecase": {
       "nominative": "Запорожье",
       "genitive": "Запорожья",
@@ -86919,7 +86919,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Запорожская область",
-      "name_en": null,
+      "name_en": "Zaporozhye Oblast",
       "district": "Южный"
     }
   },
@@ -86936,11 +86936,11 @@
     "guid": "3bf0b9a8-42b7-41ad-b8a5-6f96d0ff8da0",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 271301,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Kamenka-Dneprovskaya",
     "namecase": {
       "nominative": "Каменка-Днепровская",
       "genitive": "Каменки-Днепровской",
@@ -86976,7 +86976,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Запорожская область",
-      "name_en": null,
+      "name_en": "Zaporozhye Oblast",
       "district": "Южный"
     }
   },
@@ -86993,11 +86993,11 @@
     "guid": "9d010012-26e0-4e04-b4f5-092c97a26d81",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 272300,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Melitopol",
     "namecase": {
       "nominative": "Мелитополь",
       "genitive": "Мелитополя",
@@ -87033,7 +87033,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Запорожская область",
-      "name_en": null,
+      "name_en": "Zaporozhye Oblast",
       "district": "Южный"
     }
   },
@@ -87050,11 +87050,11 @@
     "guid": "d6942001-567c-4b3f-91ff-270a53cf876d",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 271716,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Molochansk",
     "namecase": {
       "nominative": "Молочанск",
       "genitive": "Молочанска",
@@ -87090,7 +87090,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Запорожская область",
-      "name_en": null,
+      "name_en": "Zaporozhye Oblast",
       "district": "Южный"
     }
   },
@@ -87107,11 +87107,11 @@
     "guid": "205f80a8-2bac-40f1-a0ef-caf65a7537db",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 270500,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Orekhov",
     "namecase": {
       "nominative": "Орехов",
       "genitive": "Орехова",
@@ -87147,7 +87147,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Запорожская область",
-      "name_en": null,
+      "name_en": "Zaporozhye Oblast",
       "district": "Южный"
     }
   },
@@ -87164,11 +87164,11 @@
     "guid": "c6a4bf11-95c4-40d5-8ca5-98fd3019d8f4",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 270608,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Pologi",
     "namecase": {
       "nominative": "Пологи",
       "genitive": "Пологов",
@@ -87204,7 +87204,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Запорожская область",
-      "name_en": null,
+      "name_en": "Zaporozhye Oblast",
       "district": "Южный"
     }
   },
@@ -87225,7 +87225,7 @@
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Primorsk",
     "namecase": {
       "nominative": "Приморск",
       "genitive": "Приморска",
@@ -87261,7 +87261,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Запорожская область",
-      "name_en": null,
+      "name_en": "Zaporozhye Oblast",
       "district": "Южный"
     }
   },
@@ -87278,11 +87278,11 @@
     "guid": "fc746364-110c-4fc7-a463-8747cee39dcd",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 271701,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Tokmak",
     "namecase": {
       "nominative": "Токмак",
       "genitive": "Токмака",
@@ -87318,7 +87318,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Запорожская область",
-      "name_en": null,
+      "name_en": "Zaporozhye Oblast",
       "district": "Южный"
     }
   },
@@ -87335,11 +87335,11 @@
     "guid": "564004fb-98ed-47fa-bc2a-c673d2b857b8",
     "isDualName": false,
     "isCapital": false,
-    "zip": null,
+    "zip": 271502,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Energodar",
     "namecase": {
       "nominative": "Энергодар",
       "genitive": "Энергодара",
@@ -87375,7 +87375,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Запорожская область",
-      "name_en": null,
+      "name_en": "Zaporozhye Oblast",
       "district": "Южный"
     }
   },
@@ -87392,11 +87392,11 @@
     "guid": "e2725efe-e271-432b-85d0-93bc45116ac2",
     "isDualName": false,
     "isCapital": false,
-    "zip": 283001,
+    "zip": 285320,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Dimitrov",
     "namecase": {
       "nominative": "Димитров",
       "genitive": "Димитрова",
@@ -87432,7 +87432,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   },
@@ -87449,11 +87449,11 @@
     "guid": "01cab113-6fbc-4366-beb9-fb24191fd621",
     "isDualName": true,
     "isCapital": false,
-    "zip": 284601,
+    "zip": 285200,
     "population": null,
     "yearFounded": null,
     "yearCityStatus": null,
-    "name_en": null,
+    "name_en": "Dzerzhinsk",
     "namecase": {
       "nominative": "Дзержинск",
       "genitive": "Дзержинска",
@@ -87489,7 +87489,7 @@
       "yearFounded": null,
       "area": null,
       "fullname": "Донецкая Народная Республика",
-      "name_en": null,
+      "name_en": "Donetsk People's Republic",
       "district": "Южный"
     }
   }

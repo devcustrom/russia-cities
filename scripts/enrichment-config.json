@@ -13,6 +13,7 @@
       "type": "Республика",
       "typeShort": "Респ",
       "fullname": "Донецкая Народная Республика",
+      "name_en": "Donetsk People's Republic",
       "district": "Южный",
       "capital": "Донецк",
       "cities": [
@@ -51,6 +52,7 @@
       "type": "Республика",
       "typeShort": "Респ",
       "fullname": "Луганская Народная Республика",
+      "name_en": "Lugansk People's Republic",
       "district": "Южный",
       "capital": "Луганск",
       "cities": [
@@ -79,6 +81,7 @@
       "type": "Область",
       "typeShort": "обл",
       "fullname": "Запорожская область",
+      "name_en": "Zaporozhye Oblast",
       "district": "Южный",
       "capital": "Запорожье",
       "cities": [

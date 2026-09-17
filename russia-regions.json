@@ -2998,7 +2998,7 @@
     "yearFounded": null,
     "area": null,
     "fullname": "Донецкая Народная Республика",
-    "name_en": null,
+    "name_en": "Donetsk People's Republic",
     "district": "Южный",
     "namecase": {
       "nominative": "Донецкая Народная республика",
@@ -3014,7 +3014,7 @@
       "label": "donetsk_donetskaya_narodnaya",
       "id": "9300100000000",
       "okato": "21401000000",
-      "oktmo": null,
+      "oktmo": "21701000001",
       "contentType": "city"
     }
   },
@@ -3034,7 +3034,7 @@
     "yearFounded": null,
     "area": null,
     "fullname": "Луганская Народная Республика",
-    "name_en": null,
+    "name_en": "Lugansk People's Republic",
     "district": "Южный",
     "namecase": {
       "nominative": "Луганская Народная республика",
@@ -3050,7 +3050,7 @@
       "label": "lugansk",
       "id": "9400600000000",
       "okato": "43401000000",
-      "oktmo": null,
+      "oktmo": "43701000001",
       "contentType": "city"
     }
   },
@@ -3070,7 +3070,7 @@
     "yearFounded": null,
     "area": null,
     "fullname": "Запорожская область",
-    "name_en": null,
+    "name_en": "Zaporozhye Oblast",
     "district": "Южный",
     "namecase": {
       "nominative": "Запорожская область",
@@ -3083,10 +3083,10 @@
     },
     "capital": {
       "name": "Запорожье",
-      "label": "zaporozhe",
+      "label": "zaporozhьe_zaporozhskaya",
       "id": "9000100100000",
       "okato": "23000000000",
-      "oktmo": null,
+      "oktmo": "23000000000",
       "contentType": "city"
     }
   }
