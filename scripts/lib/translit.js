@@ -19,7 +19,7 @@ const LABEL_OVERRIDES = {
 function transliterate(name) {
   if (LABEL_OVERRIDES[name]) return LABEL_OVERRIDES[name]
   return name.split(/[-\s]+/).map((w) =>
-    w.toLowerCase().split('').map((c) => LINKED_TRANS[c] || c).join('')
+    w.toLowerCase().split('').map((c) => (c in LINKED_TRANS ? LINKED_TRANS[c] : c)).join('')
   ).join('_')
 }
 

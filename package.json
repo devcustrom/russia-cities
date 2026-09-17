@@ -37,6 +37,7 @@
   "devDependencies": {
     "lvovich": "^2.1.0",
     "morphos": "^2.0.2",
-    "russian-nouns-js": "^2.5.0"
+    "russian-nouns-js": "^2.5.0",
+    "slugify": "^1.6.9"
   }
 }

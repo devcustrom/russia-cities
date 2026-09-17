@@ -2,6 +2,7 @@ const fs = require('fs')
 const path = require('path')
 const { inflectName } = require('./lib/namecase')
 const { transliterate, romanizeName } = require('./lib/translit')
+const slugify = require('slugify')
 
 const ROOT = path.resolve(__dirname, '..')
 const CONFIG_PATH = process.argv[2] || path.join(__dirname, 'enrichment-config.json')
@@ -134,7 +135,7 @@ for (const [regionKey, names] of Object.entries(CITY_LISTS)) {
     const cityRecord = {
       name: finalName,
       name_alt: nameAlt,
-      label,
+      label: slugify(label),
       type: 'Город',
       typeShort: 'г',
       contentType: 'city',
