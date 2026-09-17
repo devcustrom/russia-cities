@@ -1,6 +1,6 @@
 export interface GeoCoords {
-  lat: number | null
-  lon: number | null
+  lat: number
+  lon: number
 }
 
 export interface Timezone {
@@ -24,8 +24,8 @@ export interface Capital {
   name: string
   label: string
   id: string
-  okato: string | null
-  oktmo: string | null
+  okato: string
+  oktmo: string
   contentType: 'city'
 }
 
@@ -36,8 +36,8 @@ export interface Region {
   typeShort: string
   contentType: 'region'
   id: string
-  okato: string | null
-  oktmo: string | null
+  okato: string
+  oktmo: string
   guid: string
   code: string
   'iso_3166-2': string | null
@@ -60,12 +60,12 @@ export interface City {
   typeShort: string
   contentType: 'city'
   id: string
-  okato: string | null
-  oktmo: string | null
+  okato: string
+  oktmo: string
   guid: string
   isDualName: boolean
   isCapital: boolean
-  zip: number | null
+  zip: number
   population: number | null
   yearFounded: number | null
   yearCityStatus: number | null

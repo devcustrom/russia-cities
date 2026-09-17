@@ -1,6 +1,6 @@
 {
   "name": "russia-cities-data",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Data of Russian cities and regions with declensions",
   "main": "index.js",
   "types": "index.d.ts",
