@@ -1,0 +1,40 @@
+{
+  "name": "russia-cities-data",
+  "version": "1.0.0",
+  "description": "Data of Russian cities and regions with declensions",
+  "main": "index.js",
+  "scripts": {
+    "enrich:fetch": "node scripts/enrich-fetch.js",
+    "enrich:build": "node scripts/enrich-build.js",
+    "enrich:apply": "node scripts/apply-patch.js",
+    "dual:normalize": "node scripts/normalize-dual-names.js",
+    "enrich": "npm run enrich:build && npm run enrich:apply && npm run dual:normalize",
+    "namecase:check": "node scripts/namecase-check.js",
+    "validate": "node scripts/validate.js",
+    "test": "npm run validate"
+  },
+  "keywords": [
+    "russia",
+    "cities",
+    "regions",
+    "data"
+  ],
+  "author": "Timur Arbaev",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arbaev/russia-cities.git"
+  },
+  "homepage": "https://github.com/arbaev/russia-cities#readme",
+  "files": [
+    "index.js",
+    "README.md",
+    "russia-cities.json",
+    "russia-regions.json"
+  ],
+  "devDependencies": {
+    "lvovich": "^2.1.0",
+    "morphos": "^2.0.2",
+    "russian-nouns-js": "^2.5.0"
+  }
+}

@@ -1,0 +1,7 @@
+node_modules
+# Temporary enrichment artifacts
+new-cities.json
+new-regions.json
+dadata-fetch-results.json
+dadata-renamed-results.json
+namecase-check-out.txt
