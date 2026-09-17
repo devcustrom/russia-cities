@@ -2981,5 +2981,113 @@
       "oktmo": "71701000001",
       "contentType": "city"
     }
+  },
+  {
+    "name": "Донецкая Народная",
+    "label": "donetskaya_narodnaya",
+    "type": "Республика",
+    "typeShort": "Респ",
+    "contentType": "region",
+    "id": "9300000000000",
+    "okato": "21000000000",
+    "oktmo": "21000000",
+    "guid": "d28a09a6-ad4e-407a-ad64-c208549befc4",
+    "code": "80",
+    "iso_3166_2": null,
+    "population": null,
+    "yearFounded": null,
+    "area": null,
+    "fullname": "Донецкая Народная Республика",
+    "name_en": null,
+    "district": "Южный",
+    "namecase": {
+      "nominative": "Донецкая Народная республика",
+      "genitive": "Донецкая Народной республики",
+      "dative": "Донецкая Народной республике",
+      "accusative": "Донецкая Народнаую республику",
+      "ablative": "Донецкая Народной республикой",
+      "prepositional": "Донецкая Народной республике",
+      "locative": "Донецкая Народной республике"
+    },
+    "capital": {
+      "name": "Донецк",
+      "label": "donetsk_donetskaya_narodnaya",
+      "id": "9300100000000",
+      "okato": "21401000000",
+      "oktmo": null,
+      "contentType": "city"
+    }
+  },
+  {
+    "name": "Луганская Народная",
+    "label": "luganskaya_narodnaya",
+    "type": "Республика",
+    "typeShort": "Респ",
+    "contentType": "region",
+    "id": "9400000000000",
+    "okato": "43000000000",
+    "oktmo": "43000000",
+    "guid": "10530e14-2627-4e68-aae4-c57373defcf4",
+    "code": "81",
+    "iso_3166_2": null,
+    "population": null,
+    "yearFounded": null,
+    "area": null,
+    "fullname": "Луганская Народная Республика",
+    "name_en": null,
+    "district": "Южный",
+    "namecase": {
+      "nominative": "Луганская Народная республика",
+      "genitive": "Луганская Народной республики",
+      "dative": "Луганская Народной республике",
+      "accusative": "Луганская Народнаую республику",
+      "ablative": "Луганская Народной республикой",
+      "prepositional": "Луганская Народной республике",
+      "locative": "Луганская Народной республике"
+    },
+    "capital": {
+      "name": "Луганск",
+      "label": "lugansk",
+      "id": "9400600000000",
+      "okato": "43401000000",
+      "oktmo": null,
+      "contentType": "city"
+    }
+  },
+  {
+    "name": "Запорожская",
+    "label": "zaporozhskaya",
+    "type": "Область",
+    "typeShort": "обл",
+    "contentType": "region",
+    "id": "9000000000000",
+    "okato": "23000000000",
+    "oktmo": "23000000",
+    "guid": "7bac30d2-0e95-499e-a34a-7351a8f13833",
+    "code": "85",
+    "iso_3166_2": null,
+    "population": null,
+    "yearFounded": null,
+    "area": null,
+    "fullname": "Запорожская область",
+    "name_en": null,
+    "district": "Южный",
+    "namecase": {
+      "nominative": "Запорожская область",
+      "genitive": "Запорожской области",
+      "dative": "Запорожской области",
+      "accusative": "Запорожскаую область",
+      "ablative": "Запорожской областью",
+      "prepositional": "Запорожской области",
+      "locative": "Запорожской области"
+    },
+    "capital": {
+      "name": "Запорожье",
+      "label": "zaporozhe",
+      "id": "9000100100000",
+      "okato": "23000000000",
+      "oktmo": null,
+      "contentType": "city"
+    }
   }
 ]
